@@ -1,7 +1,7 @@
 var r=[];
 
 function setup() { 
-	//size(600,600,P3D);
+	
  createCanvas(1400, 1400);
 	for(var i=0;i<1000;i++)
 	{
